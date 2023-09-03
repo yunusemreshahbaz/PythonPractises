@@ -1,3 +1,4 @@
+"""
 import sys
 from PyQt5.QtWidgets import *
 from anaekran_ui import Ui_Anaekran
@@ -13,3 +14,4 @@ if __name__ == "__main__":
     pencere = AnaekranPenceresi()
     pencere.show()
     sys.exit(app.exec_())
+"""
