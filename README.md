@@ -34,10 +34,10 @@ Bu alıştırmalar, görüldüğü üzere, gün gün ayrılmıştır.
 Bu basit bir kitaplık/kütüphane projesidir.
 Kullanıcı öncelikle bir e-posta ve şifre belirleyerek kayıt olur. Sonra, belirledikleri e-posta ve şifre ile kendi hesaplarına giriş yapar.
 Burada 4 seçenek vardır:
--Kitap Ekle
--Kitapları Listele
--Kitap Silme
--Kitap Güncelle
+- Kitap Ekle
+- Kitapları Listele
+- Kitap Silme
+- Kitap Güncelle
 
 Elbette kullanıcının sistemden çıkış yapmak istemesi durumunda her zaman bir çıkış butonu bulunur.
 Kullanıcı ister kitap ekler; ister eklemiş olduğu kitapları listeler, siler veya günceller.
